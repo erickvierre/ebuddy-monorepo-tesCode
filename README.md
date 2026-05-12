@@ -1,6 +1,23 @@
-Coder
+# EBUDDY Fullstack Monorepo
 
-<!---
-erickvierre/erickvierre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Run Backend
+
+```bash
+cd apps/backend-repo
+npm install
+npm run dev
+```
+
+## Run Frontend
+
+```bash
+cd apps/frontend-repo
+npm install
+npm run dev
+```
+
+Frontend:
+http://localhost:3000
+
+Backend:
+http://localhost:5000
