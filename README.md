@@ -56,7 +56,7 @@ ebuddy-monorepo/
 ## Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY
+git clone https://github.com/erickvierre/ebuddyFullstackTest.git
 ```
 
 Enter project folder:
