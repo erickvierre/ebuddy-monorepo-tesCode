@@ -1,4 +1,4 @@
-# EBUDDY Fullstack Monorepo test
+# EBUDDY Fullstack Monorepo Test
 
 ## Run Backend
 
